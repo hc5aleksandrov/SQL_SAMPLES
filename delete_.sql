@@ -1,0 +1,5 @@
+SET SQL_SAFE_UPDATES = 0;
+
+DELETE 
+FROM pole_rf.table1 
+WHERE _PRICE = 44 or _PRICE = 33 ;
